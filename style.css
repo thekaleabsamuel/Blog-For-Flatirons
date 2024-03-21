@@ -10,6 +10,7 @@ header {
     background-color: #affafb;
     color: #ffffff;
     padding: 1%;
+    text-shadow: 5px 5px #558ABB;
     text-align: center; /* Center text horizontally */
 }
 
